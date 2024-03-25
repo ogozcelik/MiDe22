@@ -1,5 +1,5 @@
 # MiDe22
-Official data repository of English and Turkish misinformation detection datasets of LREC-COLING 2024 paper "MiDe22: An Annotated Multi-Event Tweet Dataset for Misinformation Detection".
+Official data repository of English and Turkish misinformation detection datasets from the LREC-COLING 2024 paper "MiDe22: An Annotated Multi-Event Tweet Dataset for Misinformation Detection".
 
 ![Screenshot](supplementary/all_events.png)
 
