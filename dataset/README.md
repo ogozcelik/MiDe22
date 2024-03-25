@@ -22,6 +22,6 @@ Each of the language folder includes `tweets.tsv` and `events.tsv` files, and `f
 
 `events.tsv`: Contains 40 misinformation events for the corresponding language, together with some attributes, such as, fact-checking source link, keywords used while tweet crawling, end date and start date of the event, etc.
 
-`tweets.tsv`: Contains all tweets having misinformation label for each language. Header of the file includes Topic, Event, Label, and Tweet ID.
+`tweets.tsv`: Contains all tweets having misinformation label for each language. Header of the file includes topic, event_id, label, tweet_id, and text. Please use the tweet texts and tweet IDs of this file to map texts for each fold in `folds` folder.
 
 `folds`: This directory includes 5-folds train and test files used when presenting baseline experiments. For example, one can use `tr_train_0.tsv` for training the model and `tr_test_0.tsv` for testing the model.
