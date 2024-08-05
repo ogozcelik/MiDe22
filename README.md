@@ -23,5 +23,17 @@ The distribution of tweet counts in the dataset is as follows:
 ## Citation
 If you make use of the datasets and codes, please cite the following paper:
 ```bibtex
-@article{will be available soon.}
+@inproceedings{toraman-etal-2024-mide22,
+    title = "{M}i{D}e22: An Annotated Multi-Event Tweet Dataset for Misinformation Detection",
+    author = "Toraman, Cagri  and
+      Ozcelik, Oguzhan  and
+      Sahinuc, Furkan  and
+      Can, Fazli",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.986",
+    pages = "11283--11295"}
 ```
